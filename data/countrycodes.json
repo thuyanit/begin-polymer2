@@ -1,0 +1,12 @@
+{
+  "countrycodes": [
+    {
+      "code": "vi",
+      "name": "Vietnam"
+    },
+    {
+      "code": "ja",
+      "name": "Japan"
+    }
+  ]
+}
